@@ -5,8 +5,22 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:retagulo_app"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Retângulo" Height="248" Width="338">
     <Grid>
+        <GroupBox Header="Área e Diagonal">
+            <Grid>
+                <TextBlock HorizontalAlignment="Left" Margin="33,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="18" Width="52"><Run Language="pt-br" Text="Base"/></TextBlock>
+                <TextBlock HorizontalAlignment="Left" Margin="230,12,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="0.71,0.6"><Run Language="pt-br" Text="Altura"/><LineBreak/><Run Language="pt-br"/></TextBlock>
+                <TextBox Name="txtbase" HorizontalAlignment="Left" Margin="33,38,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                <TextBox Name="txtaltura" HorizontalAlignment="Left" Margin="230,38,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="0.751,0.645"/>
+                <Button Content="Calcular" HorizontalAlignment="Left" Height="38" Margin="33,67,0,0" VerticalAlignment="Top" Width="252" Click="Button_Click"/>
+                <TextBlock HorizontalAlignment="Left" Margin="33,122,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Language="pt-br" Text="Area"/></TextBlock>
+                <TextBlock HorizontalAlignment="Left" Margin="212,125,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Language="pt-br" Text="Diagonal"/></TextBlock>
+                <TextBox Name="txtArea" HorizontalAlignment="Left" Margin="33,149,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                <TextBox Name="txtDiagonal" Text="TextBox" TextWrapping="Wrap" Width="120" Margin="193,149,13,0" VerticalAlignment="Top"/>
+
+            </Grid>
+        </GroupBox>
 
     </Grid>
 </Window>

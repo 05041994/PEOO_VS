@@ -1,0 +1,22 @@
+C:\repos\PEOO_VS\Aula 3\retagulo app\obj\Debug\net5.0-windows\retagulo app.csproj.AssemblyReference.cache
+C:\repos\PEOO_VS\Aula 3\retagulo app\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\repos\PEOO_VS\Aula 3\retagulo app\obj\Debug\net5.0-windows\App.g.cs
+C:\repos\PEOO_VS\Aula 3\retagulo app\obj\Debug\net5.0-windows\retagulo app_MarkupCompile.cache
+C:\repos\PEOO_VS\Aula 3\retagulo app\obj\Debug\net5.0-windows\retagulo app_MarkupCompile.lref
+C:\repos\PEOO_VS\Aula 3\retagulo app\bin\Debug\net5.0-windows\retagulo app.exe
+C:\repos\PEOO_VS\Aula 3\retagulo app\bin\Debug\net5.0-windows\retagulo app.deps.json
+C:\repos\PEOO_VS\Aula 3\retagulo app\bin\Debug\net5.0-windows\retagulo app.runtimeconfig.json
+C:\repos\PEOO_VS\Aula 3\retagulo app\bin\Debug\net5.0-windows\retagulo app.runtimeconfig.dev.json
+C:\repos\PEOO_VS\Aula 3\retagulo app\bin\Debug\net5.0-windows\retagulo app.dll
+C:\repos\PEOO_VS\Aula 3\retagulo app\bin\Debug\net5.0-windows\ref\retagulo app.dll
+C:\repos\PEOO_VS\Aula 3\retagulo app\bin\Debug\net5.0-windows\retagulo app.pdb
+C:\repos\PEOO_VS\Aula 3\retagulo app\obj\Debug\net5.0-windows\MainWindow.baml
+C:\repos\PEOO_VS\Aula 3\retagulo app\obj\Debug\net5.0-windows\retagulo app.g.resources
+C:\repos\PEOO_VS\Aula 3\retagulo app\obj\Debug\net5.0-windows\retagulo app.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\PEOO_VS\Aula 3\retagulo app\obj\Debug\net5.0-windows\retagulo app.AssemblyInfoInputs.cache
+C:\repos\PEOO_VS\Aula 3\retagulo app\obj\Debug\net5.0-windows\retagulo app.AssemblyInfo.cs
+C:\repos\PEOO_VS\Aula 3\retagulo app\obj\Debug\net5.0-windows\retagulo app.csproj.CoreCompileInputs.cache
+C:\repos\PEOO_VS\Aula 3\retagulo app\obj\Debug\net5.0-windows\retagulo app.dll
+C:\repos\PEOO_VS\Aula 3\retagulo app\obj\Debug\net5.0-windows\ref\retagulo app.dll
+C:\repos\PEOO_VS\Aula 3\retagulo app\obj\Debug\net5.0-windows\retagulo app.pdb
+C:\repos\PEOO_VS\Aula 3\retagulo app\obj\Debug\net5.0-windows\retagulo app.genruntimeconfig.cache
