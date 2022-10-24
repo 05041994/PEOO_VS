@@ -1,0 +1,22 @@
+C:\Users\20211011110009\source\repos\Lista04\Abastecimento de Combustível\bin\Debug\net5.0-windows\Abastecimento de Combustível.exe
+C:\Users\20211011110009\source\repos\Lista04\Abastecimento de Combustível\bin\Debug\net5.0-windows\Abastecimento de Combustível.deps.json
+C:\Users\20211011110009\source\repos\Lista04\Abastecimento de Combustível\bin\Debug\net5.0-windows\Abastecimento de Combustível.runtimeconfig.json
+C:\Users\20211011110009\source\repos\Lista04\Abastecimento de Combustível\bin\Debug\net5.0-windows\Abastecimento de Combustível.runtimeconfig.dev.json
+C:\Users\20211011110009\source\repos\Lista04\Abastecimento de Combustível\bin\Debug\net5.0-windows\Abastecimento de Combustível.dll
+C:\Users\20211011110009\source\repos\Lista04\Abastecimento de Combustível\bin\Debug\net5.0-windows\ref\Abastecimento de Combustível.dll
+C:\Users\20211011110009\source\repos\Lista04\Abastecimento de Combustível\bin\Debug\net5.0-windows\Abastecimento de Combustível.pdb
+C:\Users\20211011110009\source\repos\Lista04\Abastecimento de Combustível\obj\Debug\net5.0-windows\Abastecimento de Combustível.csproj.AssemblyReference.cache
+C:\Users\20211011110009\source\repos\Lista04\Abastecimento de Combustível\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\20211011110009\source\repos\Lista04\Abastecimento de Combustível\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\20211011110009\source\repos\Lista04\Abastecimento de Combustível\obj\Debug\net5.0-windows\Abastecimento de Combustível_MarkupCompile.cache
+C:\Users\20211011110009\source\repos\Lista04\Abastecimento de Combustível\obj\Debug\net5.0-windows\Abastecimento de Combustível_MarkupCompile.lref
+C:\Users\20211011110009\source\repos\Lista04\Abastecimento de Combustível\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\20211011110009\source\repos\Lista04\Abastecimento de Combustível\obj\Debug\net5.0-windows\Abastecimento de Combustível.g.resources
+C:\Users\20211011110009\source\repos\Lista04\Abastecimento de Combustível\obj\Debug\net5.0-windows\Abastecimento de Combustível.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20211011110009\source\repos\Lista04\Abastecimento de Combustível\obj\Debug\net5.0-windows\Abastecimento de Combustível.AssemblyInfoInputs.cache
+C:\Users\20211011110009\source\repos\Lista04\Abastecimento de Combustível\obj\Debug\net5.0-windows\Abastecimento de Combustível.AssemblyInfo.cs
+C:\Users\20211011110009\source\repos\Lista04\Abastecimento de Combustível\obj\Debug\net5.0-windows\Abastecimento de Combustível.csproj.CoreCompileInputs.cache
+C:\Users\20211011110009\source\repos\Lista04\Abastecimento de Combustível\obj\Debug\net5.0-windows\Abastecimento de Combustível.dll
+C:\Users\20211011110009\source\repos\Lista04\Abastecimento de Combustível\obj\Debug\net5.0-windows\ref\Abastecimento de Combustível.dll
+C:\Users\20211011110009\source\repos\Lista04\Abastecimento de Combustível\obj\Debug\net5.0-windows\Abastecimento de Combustível.pdb
+C:\Users\20211011110009\source\repos\Lista04\Abastecimento de Combustível\obj\Debug\net5.0-windows\Abastecimento de Combustível.genruntimeconfig.cache
